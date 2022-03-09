@@ -4,3 +4,6 @@ O programa pode ser usado tanto individualmente (como APIs) ou na Interface Graf
 
 ## [*] Requisitos:
 	- Python 3.4 ou Superior
+## [*] Execução:
+
+![Alt text](Execucao.png "Title")
